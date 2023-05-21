@@ -1,0 +1,20 @@
+.wp-has-submenu{
+    display: none;
+}
+
+/*menu-users {*/
+/*    display: none;*/
+/*}*/
+
+#woocommerce_dashboard_status {
+    display: none;
+}
+
+
+#dashboard_activity {
+    display: none;
+}
+
+.woocommerce-message {
+    display: none;
+}
