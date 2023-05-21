@@ -391,11 +391,11 @@ else if( ! empty( $_POST['serial'] ) ) {
 get_header(); ?>
 <div class="fc-activate-wrap">
     <div class="main-template">
-        <img class="main-img" src="https://theoneinamillionglobe.com/wp-content/uploads/2020/07/Master-pdf-with-no-logo-July-8th-2020.png" >
+        <img class="main-img" src="https://shop.theoneinamillionglobe.com/wp-content/uploads/2020/07/Master-pdf-with-no-logo-July-8th-2020.png" >
         <div class="content-template">
             <span class="main-name fc-receive fc-receive-left"><?php  if(isset($receiver)){echo $receiver;} else{echo 'David Bowie';} ?></span>
             <div>
-            <img src="https://theoneinamillionglobe.com/wp-content/uploads/2020/07/logo-mid.png">
+            <img src="https://shop.theoneinamillionglobe.com/wp-content/uploads/2020/07/logo-mid.png">
             </div>
             <p class="desc"><?php if(isset($description)){echo $description;} else{echo 'Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                 Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley.';} ?>
@@ -419,7 +419,7 @@ get_header(); ?>
             <div class="fc-saveConfirm">
                 <div class="fc-saveForm-wrap">
                     <div class="popup-logo">
-                        <img src="https://theoneinamillionglobe.com/wp-content/uploads/2020/03/logo1.png">
+                        <img src="https://shop.theoneinamillionglobe.com/wp-content/uploads/2020/03/logo1.png">
                     </div>
                     <p>Your option has been saved </p>
                     <input type="submit"  class="button-default button-large" onclick="removeRequiredSave()" value="Close"/></div>
